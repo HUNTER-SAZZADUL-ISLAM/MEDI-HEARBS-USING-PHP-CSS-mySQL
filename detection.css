@@ -1,0 +1,26 @@
+Body {
+    font-family: Calibri, Helvetica, sans-serif;
+    background-image: url('disease_detection.jpg');
+    background-size: 1900px ;
+  }
+
+   button:hover {
+          opacity: 0.8;
+      }
+      .submitbtn {
+            width: 28%;
+            padding: 8px 6px;
+            margin: 4px 0px;
+
+        }
+
+
+  h1 {
+  	color: black;
+    text-shadow: 3px 3px slateblue ;
+
+  }
+  h3 {
+  	color: darkBlue ;
+
+  }
